@@ -1,5 +1,5 @@
 #Dashboard Preview
-![DASHBOARD](Dashboard.png)
+![DASHBOARD](dashboard.png)
 
 ## 📊 Project Overview
 
