@@ -1,3 +1,6 @@
+#Dashboard Preview
+![DASHBOARD](Dashboard.png)
+
 ## 📊 Project Overview
 
 An interactive IPL dashboard built using Microsoft Excel to analyze match data from 2008–2022.
@@ -38,4 +41,6 @@ The dashboard uses Pivot Tables, Charts, and Slicers to explore team performance
 ## 📌 Project Outcome
 
 Developed an interactive dashboard to derive meaningful insights from IPL data using Excel.
+
+
 
