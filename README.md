@@ -1,6 +1,3 @@
-#Dashboard Preview
-![DASHBOARD](dashboard.png)
-
 ## 📊 Project Overview
 
 An interactive IPL dashboard built using Microsoft Excel to analyze match data from 2008–2022.
